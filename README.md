@@ -2,6 +2,11 @@
 
 **` Web Magician | Backend & Frontend Web Developer`**
 
+I'm a self-taught Web Developer from Hungary.
+
+#### About me:
+
+- 🎓 I am currently still in high school
 - 🌱 I’m currently learning **Laravel**
 - 🥅 2023 Goals: Learn more about Laravel
 - ⚡ Fun fact: I love to ride my motorbike and play guitar
@@ -25,3 +30,13 @@
 #
 
 ### 📊 Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zsombor1127&show_icons=true&theme=dark)
+
+<!--
+#
+
+<details>
+  <summary><h3>My Coding Journey</h3></summary>
+</details>
+-->
