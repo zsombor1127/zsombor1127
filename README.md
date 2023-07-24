@@ -27,16 +27,15 @@ I'm a self-taught Web Developer from Hungary.
 
 <br />
 
+<!--
 #
 
 ### 📊 Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zsombor1127&show_icons=true&theme=dark)
 
-<!--
 #
 
 <details>
   <summary><h3>My Coding Journey</h3></summary>
 </details>
--->
