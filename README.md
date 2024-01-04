@@ -1,19 +1,19 @@
 # 🏍️ Zsombor Váli
 
-**` Web Magician | Backend & Frontend Web Developer`**
+**` "IT Wifi Material" `**
 
-I'm a self-taught Web Developer from Hungary.
+I'm an average 17 year old student from Hungary.
 
 #### About me:
 
-- 🎓 I am currently still in high school
-- 🌱 I’m currently learning **Laravel**
-- 🥅 2023 Goals: Learn more about Laravel
+- 🎓 High school student
+- 🌱 I’m currently working on my **Chat application**
+- 🥅 2024 Goals: Learn more about **Mobile development** and **Embedded systems**
 - ⚡ Fun fact: I love to ride my motorbike and play guitar
 
 ---
 
-### 🧰 Langues and tools
+### 🧰 Languages and tools
 
 <img align="left" alt="Html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="Css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
