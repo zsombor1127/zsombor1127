@@ -2,14 +2,14 @@
 
 **` "IT Wifi Material" `**
 
-I'm an average 17 year old student from Hungary.
+I'm an average 18 year old student from Hungary.
 
 #### About me:
 
 - 🎓 High school student
-- 🌱 I’m currently working on my **Chat application**
-- 🥅 2024 Goals: Learn more about **Mobile development** and **Embedded systems**
-- ⚡ Fun fact: I love to ride my motorbike and play guitar
+- 🌱 I’m still working on my **Chat application**
+- 🥅 2025 Goals: Learn more about **Algorithms and data structures**
+- ⚡ Fun fact: I love to ride my motorcycle and play guitar
 
 ---
 
